@@ -1,0 +1,96 @@
+2023-11-10 16:56:33,841 - INFO - Creating constructor for bank account with account number, account holder name and balance as attributes.
+2023-11-10 16:56:33,841 - INFO - deposit() method for depositing money.
+2023-11-10 16:56:33,841 - INFO - withdraw() method for withdrawing money.
+2023-11-10 16:56:33,841 - INFO - Creating object(user1) for class bankAccount.
+2023-11-10 16:56:33,841 - INFO - Object(user1) for class bankAccount is created.
+2023-11-10 16:56:33,841 - INFO - user1 account number - 123456789
+2023-11-10 16:56:33,841 - INFO - user1 account holder name - Amit Raj
+2023-11-10 16:56:33,842 - INFO - user1 balance - 3300
+2023-11-10 16:56:33,842 - INFO - Calling deposit() method
+2023-11-10 16:56:33,842 - INFO - Balance after depositing : 3800
+2023-11-10 16:56:33,842 - INFO - Calling withdraw() method
+2023-11-10 16:56:33,842 - INFO - Balance after withdrawal : 3100
+2023-11-10 16:56:37,190 - INFO - Creating constructor for bank account with account number, account holder name and balance as attributes.
+2023-11-10 16:56:37,190 - INFO - deposit() method for depositing money.
+2023-11-10 16:56:37,190 - INFO - withdraw() method for withdrawing money.
+2023-11-10 16:56:37,190 - INFO - Creating object(user1) for class bankAccount.
+2023-11-10 16:56:37,190 - INFO - Object(user1) for class bankAccount is created.
+2023-11-10 16:56:37,190 - INFO - user1 account number - 123456789
+2023-11-10 16:56:37,191 - INFO - user1 account holder name - Amit Raj
+2023-11-10 16:56:37,191 - INFO - user1 balance - 3300
+2023-11-10 16:56:37,191 - INFO - Calling deposit() method
+2023-11-10 16:56:37,191 - INFO - Balance after depositing : 3800
+2023-11-10 16:56:37,191 - INFO - Calling withdraw() method
+2023-11-10 16:56:37,191 - INFO - Balance after withdrawal : 3100
+2023-11-10 16:56:40,835 - INFO - Creating constructor for bank account with account number, account holder name and balance as attributes.
+2023-11-10 16:56:40,835 - INFO - deposit() method for depositing money.
+2023-11-10 16:56:40,835 - INFO - withdraw() method for withdrawing money.
+2023-11-10 16:56:40,835 - INFO - Creating object(user1) for class bankAccount.
+2023-11-10 16:56:40,835 - INFO - Object(user1) for class bankAccount is created.
+2023-11-10 16:56:40,835 - INFO - user1 account number - 123456789
+2023-11-10 16:56:40,836 - INFO - user1 account holder name - Amit Raj
+2023-11-10 16:56:40,836 - INFO - user1 balance - 3300
+2023-11-10 16:56:40,836 - INFO - Calling deposit() method
+2023-11-10 16:56:40,836 - INFO - Balance after depositing : 3800
+2023-11-10 16:56:40,836 - INFO - Calling withdraw() method
+2023-11-10 16:56:40,836 - INFO - Balance after withdrawal : 3100
+2023-11-10 17:34:44,384 - INFO - Creating constructor for class with attributes as employee id, employee name and employee salary.
+2023-11-10 17:34:44,384 - INFO - Creating an object(employee_1) for the employee_management class.
+2023-11-10 17:34:44,384 - INFO - Object(employee_1) for class employee_management is created.
+2023-11-10 17:34:44,385 - INFO - employee_1 id is - 1
+2023-11-10 17:34:44,385 - INFO - employee_1 name is - Amit Raj
+2023-11-10 17:34:44,385 - INFO - employee_1 salary is - 17000
+2023-11-10 17:34:44,385 - INFO - Calling employee_details() method :
+2023-11-10 17:34:44,386 - INFO - employee_details() method
+2023-11-10 17:34:44,386 - INFO - Employee id is 1, employee name is Amit Raj and employee salary is 17000.
+2023-11-10 17:34:44,386 - INFO - Calling bonus() method :
+2023-11-10 17:34:44,386 - INFO - bonus() method
+2023-11-10 17:34:44,386 - INFO - If employee salary is greater than or equal to 15000
+2023-11-10 17:34:44,386 - INFO - Bonus is 3400.0.
+2023-11-10 17:34:44,386 - INFO - Total salary in hand :
+2023-11-10 17:34:44,386 - INFO - Thus, total hand in salary is 20400.0.
+2023-11-10 17:35:16,467 - INFO - Creating constructor for class with attributes as employee id, employee name and employee salary.
+2023-11-10 17:35:16,467 - INFO - Creating an object(employee_1) for the employee_management class.
+2023-11-10 17:35:16,467 - INFO - Object(employee_1) for class employee_management is created.
+2023-11-10 17:35:16,467 - INFO - employee_1 id is - 1
+2023-11-10 17:35:16,468 - INFO - employee_1 name is - Amit Raj
+2023-11-10 17:35:16,468 - INFO - employee_1 salary is - 17000
+2023-11-10 17:35:16,468 - INFO - Calling employee_details() method :
+2023-11-10 17:35:16,468 - INFO - employee_details() method
+2023-11-10 17:35:16,468 - INFO - Employee id is 1, employee name is Amit Raj and employee salary is 17000.
+2023-11-10 17:35:16,468 - INFO - Calling bonus() method :
+2023-11-10 17:35:16,468 - INFO - bonus() method
+2023-11-10 17:35:16,468 - INFO - If employee salary is greater than or equal to 15000
+2023-11-10 17:35:16,468 - INFO - Bonus is 3400.0.
+2023-11-10 17:35:16,468 - INFO - Total salary in hand :
+2023-11-10 17:35:16,468 - INFO - Thus, total hand in salary is 20400.0.
+2023-11-10 17:35:24,450 - INFO - Creating constructor for class with attributes as employee id, employee name and employee salary.
+2023-11-10 17:35:24,450 - INFO - Creating an object(employee_1) for the employee_management class.
+2023-11-10 17:35:24,450 - INFO - Object(employee_1) for class employee_management is created.
+2023-11-10 17:35:24,450 - INFO - employee_1 id is - 1
+2023-11-10 17:35:24,451 - INFO - employee_1 name is - Amit Raj
+2023-11-10 17:35:24,451 - INFO - employee_1 salary is - 17000
+2023-11-10 17:35:24,451 - INFO - Calling employee_details() method :
+2023-11-10 17:35:24,451 - INFO - employee_details() method
+2023-11-10 17:35:24,451 - INFO - Employee id is 1, employee name is Amit Raj and employee salary is 17000.
+2023-11-10 17:35:24,451 - INFO - Calling bonus() method :
+2023-11-10 17:35:24,451 - INFO - bonus() method
+2023-11-10 17:35:24,451 - INFO - If employee salary is greater than or equal to 15000
+2023-11-10 17:35:24,451 - INFO - Bonus is 3400.0.
+2023-11-10 17:35:24,451 - INFO - Total salary in hand :
+2023-11-10 17:35:24,451 - INFO - Thus, total hand in salary is 20400.0.
+2023-11-10 17:36:15,606 - INFO - Creating constructor for class with attributes as employee id, employee name and employee salary.
+2023-11-10 17:36:15,606 - INFO - Creating an object(employee_1) for the employee_management class.
+2023-11-10 17:36:15,606 - INFO - Object(employee_1) for class employee_management is created.
+2023-11-10 17:36:15,606 - INFO - employee_1 id is - 1
+2023-11-10 17:36:15,607 - INFO - employee_1 name is - Amit Raj
+2023-11-10 17:36:15,607 - INFO - employee_1 salary is - 17000
+2023-11-10 17:36:15,607 - INFO - Calling employee_details() method :
+2023-11-10 17:36:15,607 - INFO - employee_details() method
+2023-11-10 17:36:15,607 - INFO - Employee id is 1, employee name is Amit Raj and employee salary is 17000.
+2023-11-10 17:36:15,607 - INFO - Calling bonus() method :
+2023-11-10 17:36:15,607 - INFO - bonus() method
+2023-11-10 17:36:15,607 - INFO - If employee salary is greater than or equal to 15000
+2023-11-10 17:36:15,607 - INFO - Bonus is 3400.0.
+2023-11-10 17:36:15,607 - INFO - Total salary in hand :
+2023-11-10 17:36:15,607 - INFO - Thus, total hand in salary is 20400.0.

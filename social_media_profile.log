@@ -1,0 +1,51 @@
+2023-11-11 08:11:33,407 - INFO - Constructor for the class 'social_media_profile' with attributes as 'username' and 'posts'
+2023-11-11 08:11:33,407 - INFO - Creating an object(user1) for the class 'social_media_profile'
+2023-11-11 08:11:33,407 - INFO - Created an object(user1) for the class 'social_media_profile'
+2023-11-11 08:11:33,407 - INFO - user1 username - amitraj@123
+2023-11-11 08:11:33,407 - INFO - user1 posts - ['Hi everyone, good morning', "What's up guys?", "I'm really happy to let you know that I've joined the FSDS Pro batch."]
+2023-11-11 08:11:33,407 - INFO - Calling 'add_posts()' method
+2023-11-11 08:11:33,408 - INFO - Inside 'add_posts()' method
+2023-11-11 08:11:33,408 - INFO - Added posts are : ["I'm learning inheritance in oops concept."]
+2023-11-11 08:11:33,408 - INFO - Calling 'display_posts()' method
+2023-11-11 08:11:33,408 - INFO - Inside 'display_posts()' method
+2023-11-11 08:11:33,408 - INFO - 
+Posts are :
+2023-11-11 08:11:33,408 - INFO - Hi everyone, good morning
+
+2023-11-11 08:11:33,408 - INFO - What's up guys?
+
+2023-11-11 08:11:33,408 - INFO - I'm really happy to let you know that I've joined the FSDS Pro batch.
+
+2023-11-11 08:11:33,408 - INFO - I'm learning inheritance in oops concept.
+
+2023-11-11 08:11:33,408 - INFO - Calling 'search_posts()' method
+2023-11-11 08:11:33,408 - INFO - Inside 'search_posts()' method
+2023-11-11 08:11:33,408 - INFO - ["What's up guys?"]
+2023-11-11 08:27:55,646 - INFO - Constructor for the class 'todoList' with attributes as 'tasks' and 'due_date'
+2023-11-11 08:27:55,647 - INFO - Creating an object(task1) for the class 'todoList'
+2023-11-11 08:27:55,647 - INFO - Created an object(task1) for the class 'todoList'
+2023-11-11 08:27:55,647 - INFO - Tasks for 'task1' - ['wash clothes', 'clean floor']
+2023-11-11 08:27:55,647 - INFO - Due date to complete all the tasks is : 11/11/2023
+2023-11-11 08:27:55,647 - INFO - Calling 'todo_list()' method
+2023-11-11 08:27:55,647 - INFO - Inside 'todo_list()' method
+2023-11-11 08:28:32,110 - INFO - My todo list is ['wash clothes', 'clean floor', 'complete homework', 'arrange clothes in the cupboard', 'dusting of furnitures']
+2023-11-11 08:28:32,111 - INFO - Calling 'completed_task()' method
+2023-11-11 08:28:32,111 - INFO - Inside 'completed_task()' method
+2023-11-11 08:28:32,111 - INFO - Task completed = arrange clothes in the cupboard
+2023-11-11 08:28:32,111 - INFO - Calling 'pending_tasks()' method
+2023-11-11 08:28:32,111 - INFO - Inside 'pending_tasks()' method
+2023-11-11 08:28:32,111 - INFO - Pending tasks are : ['wash clothes', 'clean floor', 'complete homework', 'dusting of furnitures']
+2023-11-11 08:29:09,421 - INFO - Constructor for the class 'todoList' with attributes as 'tasks' and 'due_date'
+2023-11-11 08:29:09,421 - INFO - Creating an object(task1) for the class 'todoList'
+2023-11-11 08:29:09,421 - INFO - Created an object(task1) for the class 'todoList'
+2023-11-11 08:29:09,421 - INFO - Tasks for 'task1' - ['wash clothes', 'clean floor']
+2023-11-11 08:29:09,421 - INFO - Due date to complete all the tasks is : 11/11/2023
+2023-11-11 08:29:09,422 - INFO - Calling 'todo_list()' method
+2023-11-11 08:29:09,422 - INFO - Inside 'todo_list()' method
+2023-11-11 08:29:42,910 - INFO - My todo list is ['wash clothes', 'clean floor', 'complete homework', 'dusting of furnitures', 'arranging clothes in the cupboard']
+2023-11-11 08:29:42,911 - INFO - Calling 'completed_task()' method
+2023-11-11 08:29:42,911 - INFO - Inside 'completed_task()' method
+2023-11-11 08:29:42,911 - INFO - Task completed = clean floor
+2023-11-11 08:29:42,911 - INFO - Calling 'pending_tasks()' method
+2023-11-11 08:29:42,911 - INFO - Inside 'pending_tasks()' method
+2023-11-11 08:29:42,911 - INFO - Pending tasks are : ['wash clothes', 'complete homework', 'dusting of furnitures', 'arranging clothes in the cupboard']

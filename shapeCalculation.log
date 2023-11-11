@@ -1,0 +1,11 @@
+2023-11-11 05:57:46,034 - INFO - Constructor for the class 'shapeCalculation' with attributes like 'length' and 'width'.
+2023-11-11 05:57:46,034 - INFO - Creating object(rectangle_1) for the class 'shapeCalculation'
+2023-11-11 05:57:46,034 - INFO - Created object(rectangle_1) for the class 'shapeCalculation'
+2023-11-11 05:57:46,034 - INFO - Length of the rectangle - 10cm
+2023-11-11 05:57:46,034 - INFO - Width of the rectangle - 15cm
+2023-11-11 05:57:46,034 - INFO - Calling 'area_of_rectangle()' method
+2023-11-11 05:57:46,035 - INFO - Inside 'area_of_rectangle()' method
+2023-11-11 05:57:46,035 - INFO - The area of the rectangle is 150cm².
+2023-11-11 05:57:46,035 - INFO - Calling 'perimeter_of_rectangle()' method
+2023-11-11 05:57:46,035 - INFO - Inside 'perimeter_of_rectangle()' method
+2023-11-11 05:57:46,035 - INFO - The perimeter of the rectangle is 50cm.

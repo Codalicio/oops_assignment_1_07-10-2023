@@ -1,0 +1,29 @@
+2023-11-10 19:15:01,710 - INFO - Constructor for the class 'library' with attribute as 'books'
+2023-11-10 19:15:01,710 - INFO - Creating an object(student_1) for the class 'library'
+2023-11-10 19:15:01,710 - INFO - Object(student_1) for the class 'library' is created
+2023-11-10 19:15:01,710 - INFO - Books available in the library - ['Sherlock Holmes', 'Da Vinci Code']
+2023-11-10 19:15:01,711 - INFO - Calling 'add_books()' method
+2023-11-10 19:15:01,711 - INFO - Inside 'add_books()' method
+2023-11-10 19:15:01,711 - INFO - Added books are : ['100 Days Of Code, Harry Potter, The monk who sold his ferrari'].
+2023-11-10 19:15:01,711 - INFO - Calling 'available_books()' method after adding books to the library
+2023-11-10 19:15:01,711 - INFO - Inside 'available_books()' method
+2023-11-10 19:15:01,711 - INFO - Available books are : ['Sherlock Holmes', 'Da Vinci Code', '100 Days Of Code, Harry Potter, The monk who sold his ferrari']
+2023-11-10 19:15:01,711 - INFO - Calling 'borrow()' method
+2023-11-10 19:15:01,711 - INFO - Inside 'borrow()' method
+2023-11-10 19:15:01,711 - INFO - Borrowed books are : Da Vinci Code
+2023-11-10 19:15:01,711 - INFO - Calling 'available_books()' method after some books are borrowed by student_1 from the library.
+2023-11-10 19:15:01,712 - INFO - Inside 'available_books()' method
+2023-11-10 19:15:01,712 - INFO - Available books are : ['Sherlock Holmes', '100 Days Of Code, Harry Potter, The monk who sold his ferrari']
+2023-11-10 19:29:18,114 - INFO - Constructor for the class 'inventory' with the attribute 'products'.
+2023-11-10 19:29:18,114 - INFO - Creating an object(inventory_1) for the class 'inventory'.
+2023-11-10 19:29:18,114 - INFO - Created an object(inventory_1) for the class 'inventory'.
+2023-11-10 19:29:18,114 - INFO - Products in the inventory - ['item1', 'item2', 'item3', 'item4', 'item5']
+2023-11-10 19:29:18,114 - INFO - Calling 'addProducts()' method
+2023-11-10 19:29:18,114 - INFO - Inside 'addProducts()' method
+2023-11-10 19:29:18,114 - INFO - Added product is : ['item6']
+2023-11-10 19:29:18,115 - INFO - Calling 'productQuantity()' method
+2023-11-10 19:29:18,115 - INFO - Inside 'productQuantity()' method
+2023-11-10 19:29:18,115 - INFO - The quantity of product is 6.
+2023-11-10 19:29:18,115 - INFO - Calling 'availableProducts()' method
+2023-11-10 19:29:18,115 - INFO - Inside 'availableProducts()' method
+2023-11-10 19:29:18,115 - INFO - Available products are : ['item1', 'item2', 'item3', 'item4', 'item5', 'item6'].

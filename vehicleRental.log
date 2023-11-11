@@ -1,0 +1,125 @@
+2023-11-10 18:12:19,710- INFO - Constructor for class vehicleRental with attributes as vehicles and i.
+2023-11-10 18:12:19,711- INFO - Creating object(user1) for the class vehicleRental.
+2023-11-10 18:12:19,711- INFO - Object(user1) for the class vehicleRental is created.
+2023-11-10 18:12:19,711- INFO - Vehicles to select from, for user1 - ('Honda City', 'Honda Activa', 'Tata Tiago', 'Porsche', 'Supra')
+2023-11-10 18:12:19,711- INFO - The value of 'i' for user1 - 3
+2023-11-10 18:12:19,711- INFO - Calling vehicle_options() method for user1
+2023-11-10 18:12:19,711- INFO - Inside 'vehicle_options()' method
+2023-11-10 18:12:19,711- INFO - 0 = Honda City
+2023-11-10 18:12:19,711- INFO - 1 = Honda Activa
+2023-11-10 18:12:19,711- INFO - 2 = Tata Tiago
+2023-11-10 18:12:19,711- INFO - 3 = Porsche
+2023-11-10 18:12:19,711- INFO - 4 = Supra
+2023-11-10 18:12:19,712- INFO - Calling selected_rented_vehicle() method for user1
+2023-11-10 18:12:19,712- INFO - Inside 'selected_rented_vehicle()' method
+2023-11-10 18:12:19,712- INFO - The rented vehicle is Porsche.
+2023-11-10 18:12:19,712- INFO - Thanks for renting Porsche, it's yours for 24 hour.
+2023-11-10 18:12:19,712- INFO - Calling returned_vehicle() method for user1
+2023-11-10 18:12:19,712- INFO - Inside 'returned_vehicle()' method
+2023-11-10 18:12:19,712- INFO - It's 24 hours, and you have returned Porsche, thank you for being on time!
+2023-11-10 18:12:19,712- INFO - Creating object(user2) for the class vehicleRental
+2023-11-10 18:12:19,712- INFO - Object(user2) for the class vehicleRental is created
+2023-11-10 18:12:19,712- INFO - Vehicles to select from, for user2 - ('Honda City', 'Honda Activa', 'Tata Tiago', 'Porsche', 'Supra')
+2023-11-10 18:12:19,712- INFO - The value of 'i' for user2 - 4
+2023-11-10 18:12:19,712- INFO - Calling vehicle_options() method for user2
+2023-11-10 18:12:19,712- INFO - Inside 'vehicle_options()' method
+2023-11-10 18:12:19,712- INFO - 0 = Honda City
+2023-11-10 18:12:19,712- INFO - 1 = Honda Activa
+2023-11-10 18:12:19,712- INFO - 2 = Tata Tiago
+2023-11-10 18:12:19,713- INFO - 3 = Porsche
+2023-11-10 18:12:19,713- INFO - 4 = Supra
+2023-11-10 18:12:19,713- INFO - Calling selected_rented_vehicle() method for user2
+2023-11-10 18:12:19,713- INFO - Inside 'selected_rented_vehicle()' method
+2023-11-10 18:12:19,713- INFO - The rented vehicle is Supra.
+2023-11-10 18:12:19,713- INFO - Thanks for renting Supra, it's yours for 24 hour.
+2023-11-10 18:12:19,713- INFO - Calling returned_vehicle() method for user2
+2023-11-10 18:12:19,713- INFO - Inside 'returned_vehicle()' method
+2023-11-10 18:12:19,713- INFO - It's 24 hours, and you have returned Supra, thank you for being on time!
+2023-11-10 18:20:12,339- INFO - Creating constructor for bank account with account number, account holder name and balance as attributes.
+2023-11-10 18:20:12,340- INFO - Creating object(user1) for class bankAccount.
+2023-11-10 18:20:12,340- INFO - Object(user1) for class bankAccount is created.
+2023-11-10 18:20:12,340- INFO - user1 account number - 123456789
+2023-11-10 18:20:12,341- INFO - user1 account holder name - Amit Raj
+2023-11-10 18:20:12,341- INFO - user1 balance - 3300
+2023-11-10 18:20:12,341- INFO - Calling 'deposit()' method
+2023-11-10 18:20:12,341- INFO - Inside 'deposit()' method for depositing money.
+2023-11-10 18:20:12,341- INFO - Balance after depositing : 3800
+2023-11-10 18:20:12,342- INFO - Calling 'withdraw()' method
+2023-11-10 18:20:12,342- INFO - Inside 'withdraw()' method for withdrawing money.
+2023-11-10 18:20:12,342- INFO - Balance after withdrawal : 3100
+2023-11-10 18:20:15,621- INFO - Creating constructor for class with attributes as employee id, employee name and employee salary.
+2023-11-10 18:20:15,621- INFO - Creating an object(employee_1) for the employee_management class.
+2023-11-10 18:20:15,621- INFO - Object(employee_1) for class employee_management is created.
+2023-11-10 18:20:15,622- INFO - employee_1 id is - 1
+2023-11-10 18:20:15,622- INFO - employee_1 name is - Amit Raj
+2023-11-10 18:20:15,622- INFO - employee_1 salary is - 17000
+2023-11-10 18:20:15,622- INFO - Calling 'employee_details()' method :
+2023-11-10 18:20:15,622- INFO - Inside 'employee_details()' method
+2023-11-10 18:20:15,623- INFO - Employee id is 1, employee name is Amit Raj and employee salary is 17000.
+2023-11-10 18:20:15,623- INFO - Calling 'bonus()' method :
+2023-11-10 18:20:15,623- INFO - Inside 'bonus()' method
+2023-11-10 18:20:15,623- INFO - If employee salary is greater than or equal to 15000
+2023-11-10 18:20:15,623- INFO - Bonus is 3400.0.
+2023-11-10 18:20:15,623- INFO - Total salary in hand :
+2023-11-10 18:20:15,623- INFO - Thus, total hand in salary is 20400.0.
+2023-11-10 18:20:18,134- INFO - Constructor for class vehicleRental with attributes as vehicles and i.
+2023-11-10 18:20:18,134- INFO - Creating object(user1) for the class vehicleRental.
+2023-11-10 18:20:18,134- INFO - Object(user1) for the class vehicleRental is created.
+2023-11-10 18:20:18,134- INFO - Vehicles to select from, for user1 - ('Honda City', 'Honda Activa', 'Tata Tiago', 'Porsche', 'Supra')
+2023-11-10 18:20:18,134- INFO - The value of 'i' for user1 - 3
+2023-11-10 18:20:18,135- INFO - Calling 'vehicle_options()' method for user1
+2023-11-10 18:20:18,135- INFO - Inside 'vehicle_options()' method
+2023-11-10 18:20:18,135- INFO - 0 = Honda City
+2023-11-10 18:20:18,135- INFO - 1 = Honda Activa
+2023-11-10 18:20:18,135- INFO - 2 = Tata Tiago
+2023-11-10 18:20:18,135- INFO - 3 = Porsche
+2023-11-10 18:20:18,135- INFO - 4 = Supra
+2023-11-10 18:20:18,135- INFO - Calling 'selected_rented_vehicle()' method for user1
+2023-11-10 18:20:18,135- INFO - Inside 'selected_rented_vehicle()' method
+2023-11-10 18:20:18,135- INFO - The rented vehicle is Porsche.
+2023-11-10 18:20:18,135- INFO - Thanks for renting Porsche, it's yours for 24 hour.
+2023-11-10 18:20:18,135- INFO - Calling 'returned_vehicle()' method for user1
+2023-11-10 18:20:18,135- INFO - Inside 'returned_vehicle()' method
+2023-11-10 18:20:18,136- INFO - It's 24 hours, and you have returned Porsche, thank you for being on time!
+2023-11-10 18:20:18,136- INFO - Creating object(user2) for the class vehicleRental
+2023-11-10 18:20:18,136- INFO - Object(user2) for the class vehicleRental is created
+2023-11-10 18:20:18,136- INFO - Vehicles to select from, for user2 - ('Honda City', 'Honda Activa', 'Tata Tiago', 'Porsche', 'Supra')
+2023-11-10 18:20:18,136- INFO - The value of 'i' for user2 - 4
+2023-11-10 18:20:18,136- INFO - Calling 'vehicle_options()' method for user2
+2023-11-10 18:20:18,137- INFO - Inside 'vehicle_options()' method
+2023-11-10 18:20:18,137- INFO - 0 = Honda City
+2023-11-10 18:20:18,137- INFO - 1 = Honda Activa
+2023-11-10 18:20:18,137- INFO - 2 = Tata Tiago
+2023-11-10 18:20:18,137- INFO - 3 = Porsche
+2023-11-10 18:20:18,137- INFO - 4 = Supra
+2023-11-10 18:20:18,137- INFO - Calling 'selected_rented_vehicle()' method for user2
+2023-11-10 18:20:18,137- INFO - Inside 'selected_rented_vehicle()' method
+2023-11-10 18:20:18,137- INFO - The rented vehicle is Supra.
+2023-11-10 18:20:18,137- INFO - Thanks for renting Supra, it's yours for 24 hour.
+2023-11-10 18:20:18,137- INFO - Calling 'returned_vehicle()' method for user2
+2023-11-10 18:20:18,137- INFO - Inside 'returned_vehicle()' method
+2023-11-10 18:20:18,137- INFO - It's 24 hours, and you have returned Supra, thank you for being on time!
+2023-11-10 18:22:16,910- INFO - Creating constructor for bank account with account number, account holder name and balance as attributes.
+2023-11-10 18:22:16,910- INFO - Creating object(user1) for class bankAccount.
+2023-11-10 18:22:16,911- INFO - Object(user1) for class bankAccount is created.
+2023-11-10 18:22:16,911- INFO - user1 account number - 123456789
+2023-11-10 18:22:16,911- INFO - user1 account holder name - Amit Raj
+2023-11-10 18:22:16,911- INFO - user1 balance - 3300
+2023-11-10 18:22:16,911- INFO - Calling 'deposit()' method
+2023-11-10 18:22:16,911- INFO - Inside 'deposit()' method for depositing money.
+2023-11-10 18:22:16,911- INFO - Balance after depositing : 3800
+2023-11-10 18:22:16,911- INFO - Calling 'withdraw()' method
+2023-11-10 18:22:16,911- INFO - Inside 'withdraw()' method for withdrawing money.
+2023-11-10 18:22:16,912- INFO - Balance after withdrawal : 3100
+2023-11-10 18:22:42,617- INFO - Creating constructor for bank account with account number, account holder name and balance as attributes.
+2023-11-10 18:22:42,617- INFO - Creating object(user1) for class bankAccount.
+2023-11-10 18:22:42,617- INFO - Object(user1) for class bankAccount is created.
+2023-11-10 18:22:42,617- INFO - user1 account number - 123456789
+2023-11-10 18:22:42,618- INFO - user1 account holder name - Amit Raj
+2023-11-10 18:22:42,618- INFO - user1 balance - 3300
+2023-11-10 18:22:42,618- INFO - Calling 'deposit()' method
+2023-11-10 18:22:42,619- INFO - Inside 'deposit()' method for depositing money.
+2023-11-10 18:22:42,619- INFO - Balance after depositing : 3800
+2023-11-10 18:22:42,619- INFO - Calling 'withdraw()' method
+2023-11-10 18:22:42,619- INFO - Inside 'withdraw()' method for withdrawing money.
+2023-11-10 18:22:42,619- INFO - Balance after withdrawal : 3100

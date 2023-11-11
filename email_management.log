@@ -1,0 +1,69 @@
+2023-11-11 07:55:14,338 - INFO - Constructor for the class 'email_management' with attributes such as 'sender', 'recipient' and 'subject'.
+2023-11-11 07:55:14,338 - INFO - Creating object(email_1) for the class 'email_management'
+2023-11-11 07:55:14,339 - INFO - Created object(email_1) for the class 'email_management'
+2023-11-11 07:55:14,339 - INFO - Email_1 sender - rajamitnine@gmail.com
+2023-11-11 07:55:14,339 - INFO - Email_1 recipient - sudhanshukumar123@gmail.com
+2023-11-11 07:55:14,339 - INFO - Email_1 subject- My feedback
+2023-11-11 07:55:14,339 - INFO - Calling 'email()' method
+2023-11-11 07:55:14,339 - INFO - Inside 'email()' method
+2023-11-11 07:55:14,339 - INFO - From : rajamitnine@gmail.com
+2023-11-11 07:55:14,339 - INFO - To : sudhanshukumar123@gmail.com
+2023-11-11 07:55:14,339 - INFO - Subject : My feedback
+2023-11-11 07:55:14,340 - INFO - Hello Sir,
+My name is Amit Raj.
+I am one of your students from Full stack Data Science Pro batch.
+I just wanted to let you know that you are a marvelous mentor.
+
+2023-11-11 07:55:14,340 - INFO - Calling 'email_details()' method
+2023-11-11 07:55:14,340 - INFO - Inside 'email_details()' method
+2023-11-11 07:55:14,340 - INFO - Sender's name is 'rajamitnine@gmail.com' and recipient name is 'sudhanshukumar123@gmail.com'. The email subject is 'My feedback' and email body is :
+'Hello Sir,
+My name is Amit Raj.
+I am one of your students from Full Stack Data Science Pro batch.
+I just wanted to let you know that you are a marvelous mentor.'
+2023-11-11 08:10:45,160 - INFO - Constructor for the class 'social_media_profile' with attributes as 'username' and 'posts'
+2023-11-11 08:10:45,161 - INFO - Creating an object(user1) for the class 'social_media_profile'
+2023-11-11 08:10:45,161 - INFO - Created an object(user1) for the class 'social_media_profile'
+2023-11-11 08:10:45,161 - INFO - user1 username - amitraj@123
+2023-11-11 08:10:45,161 - INFO - user1 posts - ['Hi everyone, good morning', "What's up guys?", "I'm really happy to let you know that I've joined the FSDS Pro batch."]
+2023-11-11 08:10:45,162 - INFO - Calling 'add_posts()' method
+2023-11-11 08:10:45,162 - INFO - Inside 'add_posts()' method
+2023-11-11 08:10:45,162 - INFO - Added posts are : ["I'm learning inheritance in oops concept."]
+2023-11-11 08:10:45,162 - INFO - Calling 'display_posts()' method
+2023-11-11 08:10:45,162 - INFO - Inside 'display_posts()' method
+2023-11-11 08:10:45,163 - INFO - 
+Posts are :
+2023-11-11 08:10:45,163 - INFO - Hi everyone, good morning
+
+2023-11-11 08:10:45,163 - INFO - What's up guys?
+
+2023-11-11 08:10:45,163 - INFO - I'm really happy to let you know that I've joined the FSDS Pro batch.
+
+2023-11-11 08:10:45,163 - INFO - I'm learning inheritance in oops concept.
+
+2023-11-11 08:10:45,163 - INFO - Calling 'search_posts()' method
+2023-11-11 08:10:45,164 - INFO - Inside 'search_posts()' method
+2023-11-11 08:10:45,164 - INFO - ["What's up guys?"]
+2023-11-11 08:10:58,220 - INFO - Constructor for the class 'social_media_profile' with attributes as 'username' and 'posts'
+2023-11-11 08:10:58,221 - INFO - Creating an object(user1) for the class 'social_media_profile'
+2023-11-11 08:10:58,221 - INFO - Created an object(user1) for the class 'social_media_profile'
+2023-11-11 08:10:58,221 - INFO - user1 username - amitraj@123
+2023-11-11 08:10:58,221 - INFO - user1 posts - ['Hi everyone, good morning', "What's up guys?", "I'm really happy to let you know that I've joined the FSDS Pro batch."]
+2023-11-11 08:10:58,221 - INFO - Calling 'add_posts()' method
+2023-11-11 08:10:58,221 - INFO - Inside 'add_posts()' method
+2023-11-11 08:10:58,222 - INFO - Added posts are : ["I'm learning inheritance in oops concept."]
+2023-11-11 08:10:58,222 - INFO - Calling 'display_posts()' method
+2023-11-11 08:10:58,222 - INFO - Inside 'display_posts()' method
+2023-11-11 08:10:58,222 - INFO - 
+Posts are :
+2023-11-11 08:10:58,222 - INFO - Hi everyone, good morning
+
+2023-11-11 08:10:58,222 - INFO - What's up guys?
+
+2023-11-11 08:10:58,222 - INFO - I'm really happy to let you know that I've joined the FSDS Pro batch.
+
+2023-11-11 08:10:58,222 - INFO - I'm learning inheritance in oops concept.
+
+2023-11-11 08:10:58,222 - INFO - Calling 'search_posts()' method
+2023-11-11 08:10:58,222 - INFO - Inside 'search_posts()' method
+2023-11-11 08:10:58,222 - INFO - ["What's up guys?"]

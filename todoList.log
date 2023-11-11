@@ -1,0 +1,14 @@
+2023-11-11 08:29:59,331 - INFO - Constructor for the class 'todoList' with attributes as 'tasks' and 'due_date'
+2023-11-11 08:29:59,332 - INFO - Creating an object(task1) for the class 'todoList'
+2023-11-11 08:29:59,332 - INFO - Created an object(task1) for the class 'todoList'
+2023-11-11 08:29:59,332 - INFO - Tasks for 'task1' - ['wash clothes', 'clean floor']
+2023-11-11 08:29:59,332 - INFO - Due date to complete all the tasks is : 11/11/2023
+2023-11-11 08:29:59,332 - INFO - Calling 'todo_list()' method
+2023-11-11 08:29:59,332 - INFO - Inside 'todo_list()' method
+2023-11-11 08:30:32,745 - INFO - My todo list is ['wash clothes', 'clean floor', 'complete homework', 'arranging clothes in the cupboard', 'dusting of furnitures']
+2023-11-11 08:30:32,746 - INFO - Calling 'completed_task()' method
+2023-11-11 08:30:32,746 - INFO - Inside 'completed_task()' method
+2023-11-11 08:30:32,746 - INFO - Task completed = wash clothes
+2023-11-11 08:30:32,746 - INFO - Calling 'pending_tasks()' method
+2023-11-11 08:30:32,746 - INFO - Inside 'pending_tasks()' method
+2023-11-11 08:30:32,746 - INFO - Pending tasks are : ['clean floor', 'complete homework', 'arranging clothes in the cupboard', 'dusting of furnitures']

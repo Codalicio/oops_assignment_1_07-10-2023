@@ -1,0 +1,68 @@
+2023-11-11 07:39:15,746 - INFO - Constructor for the class 'student_management' with the attributes as 'id', 'name', and 'grades amongst 5 subjects'.
+2023-11-11 07:39:15,746 - INFO - Inside 'student_details()' method
+2023-11-11 07:39:15,747 - INFO - Creating object(student_1) for the class 'student_management'
+2023-11-11 07:39:15,747 - INFO - Created object(student_1) for the class 'student_management'
+2023-11-11 07:39:15,747 - INFO - Student_1 id - 1
+2023-11-11 07:39:15,747 - INFO - Student_1 name - Amit
+2023-11-11 07:39:15,747 - INFO - Student_1 grades amongst 5 subjects - [96, 85, 94, 95, 90]
+2023-11-11 07:39:15,747 - INFO - Calling 'student_details()' method
+2023-11-11 07:39:15,747 - INFO - My student id is 1.
+My name is Amit.
+And my grades are [96, 85, 94, 95, 90].
+Also, my average grade is 92%.
+2023-11-11 07:39:15,747 - INFO - Creating object(student_2) for the class 'student_management'
+2023-11-11 07:39:15,747 - INFO - Created object(student_2) for the class 'student_management'
+2023-11-11 07:39:15,748 - INFO - Student_2 id - 2
+2023-11-11 07:39:15,748 - INFO - Student_1 name - Raj
+2023-11-11 07:39:15,748 - INFO - Student_2 grades amongst 5 subjects - [88, 82, 95, 85, 90]
+2023-11-11 07:39:15,748 - INFO - Calling 'student_details()' method
+2023-11-11 07:39:15,748 - INFO - My student id is 2.
+My name is Raj.
+And my grades are [88, 82, 95, 85, 90].
+Also, my average grade is 88%.
+2023-11-11 07:54:38,338 - INFO - Constructor for the class 'email_management' with attributes such as 'sender', 'recipient' and 'subject'.
+2023-11-11 07:54:38,339 - INFO - Creating object(email_1) for the class 'email_management'
+2023-11-11 07:54:38,339 - INFO - Created object(email_1) for the class 'email_management'
+2023-11-11 07:54:38,339 - INFO - Email_1 sender - rajamitnine@gmail.com
+2023-11-11 07:54:38,339 - INFO - Email_1 recipient - sudhanshukumar123@gmail.com
+2023-11-11 07:54:38,339 - INFO - Email_1 subject- My feedback
+2023-11-11 07:54:38,339 - INFO - Calling 'email()' method
+2023-11-11 07:54:38,339 - INFO - Inside 'email()' method
+2023-11-11 07:54:38,339 - INFO - From : rajamitnine@gmail.com
+2023-11-11 07:54:38,340 - INFO - To : sudhanshukumar123@gmail.com
+2023-11-11 07:54:38,340 - INFO - Subject : My feedback
+2023-11-11 07:54:38,340 - INFO - Hello Sir,
+My name is Amit Raj.
+I am one of your students from Full stack Data Science Pro batch.
+I just wanted to let you know that you are a marvelous mentor.
+
+2023-11-11 07:54:38,340 - INFO - Calling 'email_details()' method
+2023-11-11 07:54:38,340 - INFO - Inside 'email_details()' method
+2023-11-11 07:54:38,340 - INFO - Sender's name is 'rajamitnine@gmail.com' and recipient name is 'sudhanshukumar123@gmail.com'. The email subject is 'My feedback' and email body is :
+'Hello Sir,
+My name is Amit Raj.
+I am one of your students from Full Stack Data Science Pro batch.
+I just wanted to let you know that you are a marvelous mentor.'
+2023-11-11 07:54:52,054 - INFO - Constructor for the class 'email_management' with attributes such as 'sender', 'recipient' and 'subject'.
+2023-11-11 07:54:52,055 - INFO - Creating object(email_1) for the class 'email_management'
+2023-11-11 07:54:52,055 - INFO - Created object(email_1) for the class 'email_management'
+2023-11-11 07:54:52,055 - INFO - Email_1 sender - rajamitnine@gmail.com
+2023-11-11 07:54:52,055 - INFO - Email_1 recipient - sudhanshukumar123@gmail.com
+2023-11-11 07:54:52,056 - INFO - Email_1 subject- My feedback
+2023-11-11 07:54:52,056 - INFO - Calling 'email()' method
+2023-11-11 07:54:52,056 - INFO - Inside 'email()' method
+2023-11-11 07:54:52,056 - INFO - From : rajamitnine@gmail.com
+2023-11-11 07:54:52,056 - INFO - To : sudhanshukumar123@gmail.com
+2023-11-11 07:54:52,056 - INFO - Subject : My feedback
+2023-11-11 07:54:52,056 - INFO - Hello Sir,
+My name is Amit Raj.
+I am one of your students from Full stack Data Science Pro batch.
+I just wanted to let you know that you are a marvelous mentor.
+
+2023-11-11 07:54:52,056 - INFO - Calling 'email_details()' method
+2023-11-11 07:54:52,056 - INFO - Inside 'email_details()' method
+2023-11-11 07:54:52,056 - INFO - Sender's name is 'rajamitnine@gmail.com' and recipient name is 'sudhanshukumar123@gmail.com'. The email subject is 'My feedback' and email body is :
+'Hello Sir,
+My name is Amit Raj.
+I am one of your students from Full Stack Data Science Pro batch.
+I just wanted to let you know that you are a marvelous mentor.'
